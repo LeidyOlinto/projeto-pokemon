@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+/* Esses são global. */
+}
+ul {
+    list-style: none; 
+/* Aqui é pra não aparecer as bolinhas do li */
+}
